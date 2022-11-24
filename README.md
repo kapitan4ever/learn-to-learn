@@ -6,7 +6,7 @@
 [Бриф](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
 
 ## Ссылка на проект
-Для просмотра проекта перейдите по [ссылке](https://kapitan4ever.github.io/learn-to-learn/index.html)
+Для просмотра проекта перейдите по [ссылке](https://kapitan4ever.github.io/learn-to-learn/)
 
 ## Стэк
 HTML, CSS, файловая структура БЭМ Nested
